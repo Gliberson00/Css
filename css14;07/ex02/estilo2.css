@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    gap: 1em;
+}
+header{
+    border: 1px solid rgb(233, 12, 12);
+    flex-basis: 25%;
+    background-color:rgb(30, 255, 0);
+    height: 80vh;
+}
+main{
+    flex: 1;
+    background-color: palevioletred;
+}
